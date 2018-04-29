@@ -1,0 +1,7 @@
+function print1ToN (n) {
+    let number = Number(n);
+    for (let i = 1; i <= number; i++) {
+        console.log(i);
+    }
+}
+print1ToN(5);
