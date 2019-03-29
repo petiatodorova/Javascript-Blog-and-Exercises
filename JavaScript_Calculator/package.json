@@ -12,7 +12,7 @@
     "handlebars-helper-selectif": "^1.0.1",
     "hbs": "~4.0.1",
     "mongoose": "^4.6.6",
-    "morgan": "~1.7.0",
+    "morgan": "~1.9.1",
     "npm": "^5.8.0",
     "serve-favicon": "~2.3.0"
   }
